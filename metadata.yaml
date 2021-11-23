@@ -1,11 +1,16 @@
 _repo: Beszelgetes-a-hazassagrol-es-egyeb-elbeszelesek_66757
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lampérth, Géza
     gutenberg_agent_id: '53943'
     url: http://www.gutenberg.org/2009/agents/53943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66757#Beszelgetes-a-hazassagrol-es-egyeb-elbeszelesek
 gutenberg_issued: '2021-11-17'
 identifiers:
   gutenberg: '66757'
